@@ -1,0 +1,18 @@
+<html>
+<center><h1><head>Ingeniería de Software</h1></center></head>
+<title> ATI
+</title>
+<body>
+<body bgcolor="#64B2FF">
+<center><p>¿Qué es la ingeniería de software?</center></p>
+<center><p>Es una de las ramas de las ciencias de la computación que estudia la creación de software confiable y de calidad, basándose en métodos y técnicas de ingeniería, y brindando soporte operacional y de mantenimiento.</p></center>
+<center><p><h2>Las diferencias entre el desarrollo y la ingeniería de software</p></center></h2>
+<center><p>Mientras que la ingeniería se enfoca en la metodología a seguir para la elaboración de un producto, el desarrollo se muestra mejor en el conocimiento y habilidad en distintos lenguajes d eprogramación. También se podría decir que el desarrollo entra dentro de la ingeniería de software, ya que es una de sus etapas.</p></center>
+<center><p>La ingeniería de software abarca los siquientes puntos:
+<p aling="right">-Análisis de requerimientos</p aling="right">
+<p aling="right">-Diseño de sistema</p aling="right">
+<p aling="right">-Desarrollo de software</p aling="right">
+<p aling="right">-Pruebas de calidad</p aling="right">
+<p aling="right">-Implementación y evaluación</p aling="right">
+</body>
+</html>

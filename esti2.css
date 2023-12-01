@@ -1,0 +1,48 @@
+<style>
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-bottom: 20px;
+    }
+
+    th, td {
+        border: 1px solid #999;
+        padding: 8px;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    td a {
+        text-decoration: none;
+        color: #0645ad;
+    }
+
+    td a:hover {
+        text-decoration: underline;
+    }
+</style>
+
+<table>
+    <thead>
+        <tr>
+            <th>Angel Uriel Ancira Noyola #2015816 IMC</th>
+            <th>Nestor Alaciel Garcia Alonso #2070373 IEA</th>
+            <th>Obed Jacobo Flores Sepulveda #2178104 IAS</th>
+            <th>Christian Joel Serrato Rosales #2070262 IME</th>
+            <th>Aaron Carbajal Avalos #2177774 ITS</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td><a href="noyola/Ensayo-ATI.pdf">Fase 1</a></td>
+            <td><a href="alaciel/Ensayo.pdf">Fase 1</a></td>
+            <td><a href="obed/FASE 1.pdf">Fase 1</a></td>
+            <td><a href="joel/FASE 1- ENSAYO.pdf">Fase 1</a></td>
+            <td><a href="aaron/Problem&aacute;tica de mi carrera_070210-1.docx">Fase 1</a></td>
+        </tr>
+        <!-- Resto de filas -->
+    </tbody>
+</table>
